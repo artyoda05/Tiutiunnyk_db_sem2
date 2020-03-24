@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shop>
+  <product>
+    <description> Yong Sung Blue Zone </description>
+    <price> $64.0000 </price>
+    <image>http://www.fishing-mart.com.ua/2115-home_default/yong-sung-blue-zone.jpg</image>
+  </product>
+  <product>
+    <description> Yong Sung Executive </description>
+    <price> $25.2500 </price>
+    <image>http://www.fishing-mart.com.ua/2116-home_default/yong-sung-executive.jpg</image>
+  </product>
+  <product>
+    <description> Yong Sung Vip Power </description>
+    <price> $73.0000 </price>
+    <image>http://www.fishing-mart.com.ua/2117-home_default/yong-sung-vip-power.jpg</image>
+  </product>
+  <product>
+    <description> Yong Sung Fedora Rex </description>
+    <price> $0.0000 </price>
+    <image>http://www.fishing-mart.com.ua/2118-home_default/yong-sung-fedora-rex.jpg</image>
+  </product>
+  <product>
+    <description> Condor Optima Tele </description>
+    <price> $15.0000 </price>
+    <image>http://www.fishing-mart.com.ua/6203-home_default/condor-optima-tele.jpg</image>
+  </product>
+  <product>
+    <description> Globe New Hunter-B </description>
+    <price> $19.5000 </price>
+    <image>http://www.fishing-mart.com.ua/4388-home_default/globe-new-hunter-b.jpg</image>
+  </product>
+  <product>
+    <description> Newfish Team Italy </description>
+    <price> $18.0000 </price>
+    <image>http://www.fishing-mart.com.ua/4389-home_default/newfish-team-italy.jpg</image>
+  </product>
+  <product>
+    <description> Guang Wei Wind Blade Pole </description>
+    <price> $17.5000 </price>
+    <image>http://www.fishing-mart.com.ua/4390-home_default/gw-wind-blade-pole.jpg</image>
+  </product>
+  <product>
+    <description> Libao Avenger Pole </description>
+    <price> $31.8500 </price>
+    <image>http://www.fishing-mart.com.ua/4391-home_default/libao-avenger-pole.jpg</image>
+  </product>
+  <product>
+    <description> Light Spot Light Fox Pole </description>
+    <price> $29.0000 </price>
+    <image>http://www.fishing-mart.com.ua/4373-home_default/light-spot-light-fox-pole.jpg</image>
+  </product>
+  <product>
+    <description> Guang Wei Well-Chosen </description>
+    <price> $6.9000 </price>
+    <image>http://www.fishing-mart.com.ua/4393-home_default/gw-well-chosen.jpg</image>
+  </product>
+  <product>
+    <description> Guang Wei Vitrification Rod </description>
+    <price> $9.2500 </price>
+    <image>http://www.fishing-mart.com.ua/4395-home_default/gw-vitrification-rod.jpg</image>
+  </product>
+  <product>
+    <description> Guang Wei Joker </description>
+    <price> $4.0000 </price>
+    <image>http://www.fishing-mart.com.ua/4402-home_default/libao-avenger-polegw-joker.jpg</image>
+  </product>
+  <product>
+    <description> Rich Sport Fishing Forward Pole </description>
+    <price> $22.1000 </price>
+    <image>http://www.fishing-mart.com.ua/4705-home_default/rs-fishing-forward-pole-.jpg</image>
+  </product>
+  <product>
+    <description> Salmo Supreme Mini Pole </description>
+    <price> $13.0000 </price>
+    <image>http://www.fishing-mart.com.ua/4892-home_default/salmo-supreme-mini-pole.jpg</image>
+  </product>
+  <product>
+    <description> Rich Sport Fishing New Hunter-B </description>
+    <price> $20.4600 </price>
+    <image>http://www.fishing-mart.com.ua/5543-home_default/rs-fishing-new-hunter-b.jpg</image>
+  </product>
+  <product>
+    <description> RS Fishing Black Diamond Pole </description>
+    <price> $14.3000 </price>
+    <image>http://www.fishing-mart.com.ua/6003-home_default/rs-fishing-black-diamond-pole.jpg</image>
+  </product>
+  <product>
+    <description> RS Fishing Star Dust Pole </description>
+    <price> $14.3000 </price>
+    <image>http://www.fishing-mart.com.ua/6002-home_default/rs-fishing-star-dust-pole.jpg</image>
+  </product>
+  <product>
+    <description> Rich Sport Fishing Styel Polo </description>
+    <price> $6.0000 </price>
+    <image>http://www.fishing-mart.com.ua/6077-home_default/rich-sport-fishing-styel-polo.jpg</image>
+  </product>
+  <product>
+    <description> Rich Sport Fishing Ferretti Pole </description>
+    <price> $20.0000 </price>
+    <image>http://www.fishing-mart.com.ua/6414-home_default/rich-sport-fishing-ferretti-pole.jpg</image>
+  </product>
+</shop>
